@@ -10,6 +10,7 @@ layout: default
       <th scope="col">Lower House</th>
       <th scope="col">Session</th>
       <th scope="col" colspan="9">Groups</th>
+      <th scope="col">Seats</th>
       <th scope="col">Date</th>
     </tr>
   </thead>
@@ -33,7 +34,11 @@ layout: default
         {{ group.name }} {% if group.number-of-mps %} ({{ group.number-of-mps
         }}) {% endif %}
       </td>
-      {% endfor %}
+      {% endfor %} {% if parliament.seats %} {% assign total_mps = 0 %} {% for
+      group in parliament.groups %} {% assign total_mps = total_mps | plus:
+      group["number-of-mps"] %} {% endfor %}
+      <td>{{ total_mps }} / {{ parliament.seats }}</td>
+      {% endif %}
       <td>
         <a
           class="text-decoration-none"

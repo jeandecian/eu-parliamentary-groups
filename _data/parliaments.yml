@@ -1,5 +1,6 @@
 - member-state: European Union
   lower-house: European Parliament
+  seats: 720
   session: 2024-2029
   groups:
     - name: The Left
@@ -43,6 +44,7 @@
 
 - member-state: Austria
   lower-house: National Council
+  seats: 183
   session: 2024-2029
   groups:
     - name:
@@ -104,6 +106,7 @@
 
 - member-state: Estonia
   lower-house: Riigikogu
+  seats: 101
   session: 2023-2027
   groups:
     - name:
