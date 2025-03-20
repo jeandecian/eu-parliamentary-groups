@@ -39,6 +39,7 @@
       color: "#999999"
 
   date: 2024-07-16
+  source-url: https://www.europarl.europa.eu/about-parliament/en/organisation-and-rules/organisation/political-groups
 
 - member-state: Austria
   lower-house: National Council
@@ -81,6 +82,7 @@
       color:
 
   date: 2025-03-14
+  source-url: https://en.wikipedia.org/wiki/National_Council_(Austria)
 
 - member-state: Belgium
   lower-house: Chamber of Representatives

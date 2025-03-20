@@ -34,19 +34,15 @@ layout: default
         }}) {% endif %}
       </td>
       {% endfor %}
-      <td>{{ parliament.date }}</td>
+      <td>
+        <a
+          class="text-decoration-none"
+          href="{{ parliament.source-url }}"
+          target="_blank"
+          >{{ parliament.date }}</a
+        >
+      </td>
     </tr>
     {% endfor %}
   </tbody>
 </table>
-<h3>Sources</h3>
-<ul>
-  {% for source in site.data.sources %}
-  <li>
-    <a class="text-decoration-none" href="{{ source.url }}" target="_blank"
-      >{{ source.title }}</a
-    >
-    ({{ source.date }})
-  </li>
-  {% endfor %}
-</ul>
