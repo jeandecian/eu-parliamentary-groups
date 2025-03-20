@@ -3,41 +3,50 @@
   seats: 720
   session: 2024-2029
   groups:
-    - name: The Left
-      number-of-mps: 46
-      color: "#B71C1C"
+    - parties:
+        - name: The Left
+          number-of-mps: 46
+          color: "#B71C1C"
 
-    - name: S&D
-      number-of-mps: 136
-      color: "#F0001C"
+    - parties:
+        - name: S&D
+          number-of-mps: 136
+          color: "#F0001C"
 
-    - name: Greens/EFA
-      number-of-mps: 53
-      color: "#57B45F"
+    - parties:
+        - name: Greens/EFA
+          number-of-mps: 53
+          color: "#57B45F"
 
-    - name: Renew
-      number-of-mps: 77
-      color: "#FFD700"
+    - parties:
+        - name: Renew
+          number-of-mps: 77
+          color: "#FFD700"
 
-    - name: EPP
-      number-of-mps: 188
-      color: "#3399FF"
+    - parties:
+        - name: EPP
+          number-of-mps: 188
+          color: "#3399FF"
 
-    - name: ECR
-      number-of-mps: 78
-      color: "#196CA8"
+    - parties:
+        - name: ECR
+          number-of-mps: 78
+          color: "#196CA8"
 
-    - name: PfE
-      number-of-mps: 84
-      color: "#253082"
+    - parties:
+        - name: PfE
+          number-of-mps: 84
+          color: "#253082"
 
-    - name: ESN
-      number-of-mps: 25
-      color: "#13517E"
+    - parties:
+        - name: ESN
+          number-of-mps: 25
+          color: "#13517E"
 
-    - name: NI
-      number-of-mps: 32
-      color: "#999999"
+    - parties:
+        - name: NI
+          number-of-mps: 32
+          color: "#999999"
 
   date: 2024-07-16
   source-url: https://www.europarl.europa.eu/about-parliament/en/organisation-and-rules/organisation/political-groups
@@ -47,41 +56,50 @@
   seats: 183
   session: 2024-2029
   groups:
-    - name:
-      number-of-mps:
-      color:
+    - parties:
+        - name:
+          number-of-mps:
+          color:
 
-    - name: SPÖ
-      number-of-mps: 41
-      color: "#E42712"
+    - parties:
+        - name: SPÖ
+          number-of-mps: 41
+          color: "#E42712"
 
-    - name: Greens
-      number-of-mps: 16
-      color: "#87B529"
+    - parties:
+        - name: Greens
+          number-of-mps: 16
+          color: "#87B529"
 
-    - name: NEOS
-      number-of-mps: 18
-      color: "#CB1667"
+    - parties:
+        - name: NEOS
+          number-of-mps: 18
+          color: "#CB1667"
 
-    - name: ÖVP
-      number-of-mps: 51
-      color: "#63C3D0"
+    - parties:
+        - name: ÖVP
+          number-of-mps: 51
+          color: "#63C3D0"
 
-    - name:
-      number-of-mps:
-      color:
+    - parties:
+        - name:
+          number-of-mps:
+          color:
 
-    - name: FPÖ
-      number-of-mps: 57
-      color: "#0056A2"
+    - parties:
+        - name: FPÖ
+          number-of-mps: 57
+          color: "#0056A2"
 
-    - name:
-      number-of-mps:
-      color:
+    - parties:
+        - name:
+          number-of-mps:
+          color:
 
-    - name:
-      number-of-mps:
-      color:
+    - parties:
+        - name:
+          number-of-mps:
+          color:
 
   date: 2025-03-14
   source-url: https://en.wikipedia.org/wiki/National_Council_(Austria)
@@ -109,41 +127,50 @@
   seats: 101
   session: 2023-2027
   groups:
-    - name:
-      number-of-mps:
-      color:
+    - parties:
+        - name:
+          number-of-mps:
+          color:
 
-    - name: SDE
-      number-of-mps: 14
-      color: "#E10600"
+    - parties:
+        - name: SDE
+          number-of-mps: 14
+          color: "#E10600"
 
-    - name:
-      number-of-mps:
-      color:
+    - parties:
+        - name:
+          number-of-mps:
+          color:
 
-    - name: Reform
-      number-of-mps: 39
-      color: "#FFE200"
+    - parties:
+        - name: Reform
+          number-of-mps: 39
+          color: "#FFE200"
 
-    - name: Isamaa
-      number-of-mps: 11
-      color: "#009CE2"
+    - parties:
+        - name: Isamaa
+          number-of-mps: 11
+          color: "#009CE2"
 
-    - name:
-      number-of-mps:
-      color:
+    - parties:
+        - name:
+          number-of-mps:
+          color:
 
-    - name: EKRE
-      number-of-mps: 11
-      color: "#0063AF"
+    - parties:
+        - name: EKRE
+          number-of-mps: 11
+          color: "#0063AF"
 
-    - name:
-      number-of-mps:
-      color:
+    - parties:
+        - name:
+          number-of-mps:
+          color:
 
-    - name:
-      number-of-mps:
-      color:
+    - parties:
+        - name:
+          number-of-mps:
+          color:
 
   date: 2025-03-10
   source-url: https://en.wikipedia.org/wiki/Riigikogu
@@ -171,41 +198,50 @@
   seats: 400
   session: 2022-2027
   groups:
-    - name: M5S
-      number-of-mps: 49
-      color: "#FFEB3B"
+    - parties:
+        - name: M5S
+          number-of-mps: 49
+          color: "#FFEB3B"
 
-    - name:
-      number-of-mps:
-      color:
+    - parties:
+        - name:
+          number-of-mps:
+          color:
 
-    - name:
-      number-of-mps:
-      color:
+    - parties:
+        - name:
+          number-of-mps:
+          color:
 
-    - name: IV–C–RE
-      number-of-mps: 7
-      color: "#D6418C"
+    - parties:
+        - name: IV–C–RE
+          number-of-mps: 7
+          color: "#D6418C"
 
-    - name: FI
-      number-of-mps: 49
-      color: "#0087DC"
+    - parties:
+        - name: FI
+          number-of-mps: 49
+          color: "#0087DC"
 
-    - name: FdI
-      number-of-mps: 117
-      color: "#03386A"
+    - parties:
+        - name: FdI
+          number-of-mps: 117
+          color: "#03386A"
 
-    - name: Lega
-      number-of-mps: 65
-      color: "#008000"
+    - parties:
+        - name: Lega
+          number-of-mps: 65
+          color: "#008000"
 
-    - name:
-      number-of-mps:
-      color:
+    - parties:
+        - name:
+          number-of-mps:
+          color:
 
-    - name:
-      number-of-mps:
-      color:
+    - parties:
+        - name:
+          number-of-mps:
+          color:
 
   date: 2025-03-13
   source-url: https://en.wikipedia.org/wiki/Chamber_of_Deputies_(Italy)
@@ -248,41 +284,54 @@
   seats: 349
   session: 2022-2026
   groups:
-    - name: Left Party
-      number-of-mps: 24
-      color: "#B00000"
+    - parties:
+        - name: Left Party
+          number-of-mps: 24
+          color: "#B00000"
 
-    - name: Social Democrats
-      number-of-mps: 106
-      color: "#ED1B34"
+    - parties:
+        - name: Social Democrats
+          number-of-mps: 106
+          color: "#ED1B34"
 
-    - name: Green Party
-      number-of-mps: 18
-      color: "#2B912C"
+    - parties:
+        - name: Green Party
+          number-of-mps: 18
+          color: "#2B912C"
 
-    - name: Centre Party
-      number-of-mps: 24
-      color: "#124838"
+    - parties:
+        - name: Centre Party
+          number-of-mps: 24
+          color: "#124838"
 
-    - name: Moderate Party
-      number-of-mps: 68
-      color: "#019CDB"
+    - parties:
+        - name: Moderate Party
+          number-of-mps: 68
+          color: "#019CDB"
 
-    - name: Sweden Democrats
-      number-of-mps: 72
-      color: "#FEDF09"
+        - name: Christian Democrats
+          number-of-mps: 19
+          color: "#231977"
 
-    - name:
-      number-of-mps:
-      color:
+    - parties:
+        - name: Sweden Democrats
+          number-of-mps: 72
+          color: "#FEDF09"
 
-    - name:
-      number-of-mps:
-      color:
+    - parties:
+        - name:
+          number-of-mps:
+          color:
 
-    - name:
-      number-of-mps:
-      color:
+    - parties:
+        - name:
+          number-of-mps:
+          color:
+
+    - parties:
+        - name:
+          number-of-mps:
+          color:
 
   date: 2025-03-20
   source-url: https://en.wikipedia.org/wiki/Riksdag

@@ -21,22 +21,30 @@ layout: default
       <td>{{ parliament.lower-house }}</td>
       <td>{{ parliament.session }}</td>
       {% for group in parliament.groups %}
-      <td
-        {%
-        if
-        group.color
-        %}
-        style="background-color: {{ group.color }}; color: white;"
-        {%
-        endif
-        %}
-      >
-        {{ group.name }} {% if group.number-of-mps %} ({{ group.number-of-mps
-        }}) {% endif %}
+      <td class="p-0">
+        <div class="d-flex flex-column">
+          {% for party in group.parties %}
+          <div
+            class="p-1"
+            {%
+            if
+            party.color
+            %}
+            style="background-color: {{ party.color }}; color: white;"
+            {%
+            endif
+            %}
+          >
+            {{ party.name }} {% if party.number-of-mps %} ({{
+            party.number-of-mps }}) {% endif %}
+          </div>
+          {% endfor %}
+        </div>
       </td>
       {% endfor %} {% if parliament.seats %} {% assign total_mps = 0 %} {% for
-      group in parliament.groups %} {% assign total_mps = total_mps | plus:
-      group["number-of-mps"] %} {% endfor %}
+      group in parliament.groups %} {% for party in group.parties %} {% assign
+      total_mps = total_mps | plus: party["number-of-mps"] %} {% endfor %} {%
+      endfor %}
       <td>{{ total_mps }} / {{ parliament.seats }}</td>
       {% endif %}
       <td>
