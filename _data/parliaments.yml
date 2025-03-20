@@ -186,6 +186,68 @@
 
 - member-state: Greece
   lower-house: Hellenic Parliament
+  seats: 300
+  session: 2023-2027
+  groups:
+    - parties:
+        - name: Syriza
+          number-of-mps: 26
+          color: "#ee808f"
+
+    - parties:
+        - name: PASOK – Movement for Change
+          number-of-mps: 33
+          color: "#007934"
+
+    - parties:
+        - name:
+          number-of-mps:
+          color:
+
+    - parties:
+        - name:
+          number-of-mps:
+          color:
+
+    - parties:
+        - name: New Democracy
+          number-of-mps: 155
+          color: "#1b5cc7"
+
+    - parties:
+        - name: Greek Solution
+          number-of-mps: 11
+          color: "#86C0E8"
+
+    - parties:
+        - name:
+          number-of-mps:
+          color:
+
+    - parties:
+        - name:
+          number-of-mps:
+          color:
+
+    - parties:
+        - name: Independents
+          number-of-mps: 22
+          color: "#DCDCDC"
+
+        - name: Communist Party
+          number-of-mps: 21
+          color: "#e30301"
+
+        - name: Victory
+          number-of-mps: 10
+          color: "#910048"
+
+        - name: Course of Freedom
+          number-of-mps: 6
+          color: "#9F1897"
+
+  date: 2025-03-16
+  source-url: https://en.wikipedia.org/wiki/Hellenic_Parliament
 
 - member-state: Hungary
   lower-house: National Assembly
