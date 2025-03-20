@@ -30,7 +30,8 @@ layout: default
         endif
         %}
       >
-        {{ group.name }} ({{ group.number-of-mps }})
+        {{ group.name }} {% if group.number-of-mps %} ({{ group.number-of-mps
+        }}) {% endif %}
       </td>
       {% endfor %}
       <td>{{ parliament.date }}</td>

@@ -42,6 +42,45 @@
 
 - member-state: Austria
   lower-house: National Council
+  session: 2024-2029
+  groups:
+    - name:
+      number-of-mps:
+      color:
+
+    - name: SPÖ
+      number-of-mps: 41
+      color: "#E42712"
+
+    - name: Greens
+      number-of-mps: 16
+      color: "#87B529"
+
+    - name: NEOS
+      number-of-mps: 18
+      color: "#CB1667"
+
+    - name: ÖVP
+      number-of-mps: 51
+      color: "#63C3D0"
+
+    - name:
+      number-of-mps:
+      color:
+
+    - name: FPÖ
+      number-of-mps: 57
+      color: "#0056A2"
+
+    - name:
+      number-of-mps:
+      color:
+
+    - name:
+      number-of-mps:
+      color:
+
+  date: 2025-03-14
 
 - member-state: Belgium
   lower-house: Chamber of Representatives
