@@ -245,3 +245,44 @@
 
 - member-state: Sweden
   lower-house: Riksdag
+  seats: 349
+  session: 2022-2026
+  groups:
+    - name: Left Party
+      number-of-mps: 24
+      color: "#B00000"
+
+    - name: Social Democrats
+      number-of-mps: 106
+      color: "#ED1B34"
+
+    - name: Green Party
+      number-of-mps: 18
+      color: "#2B912C"
+
+    - name: Centre Party
+      number-of-mps: 24
+      color: "#124838"
+
+    - name: Moderate Party
+      number-of-mps: 68
+      color: "#019CDB"
+
+    - name: Sweden Democrats
+      number-of-mps: 72
+      color: "#FEDF09"
+
+    - name:
+      number-of-mps:
+      color:
+
+    - name:
+      number-of-mps:
+      color:
+
+    - name:
+      number-of-mps:
+      color:
+
+  date: 2025-03-20
+  source-url: https://en.wikipedia.org/wiki/Riksdag
