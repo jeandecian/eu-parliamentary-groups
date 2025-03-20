@@ -104,6 +104,46 @@
 
 - member-state: Estonia
   lower-house: Riigikogu
+  session: 2023-2027
+  groups:
+    - name:
+      number-of-mps:
+      color:
+
+    - name: SDE
+      number-of-mps: 14
+      color: "#E10600"
+
+    - name:
+      number-of-mps:
+      color:
+
+    - name: Reform
+      number-of-mps: 39
+      color: "#FFE200"
+
+    - name: Isamaa
+      number-of-mps: 11
+      color: "#009CE2"
+
+    - name:
+      number-of-mps:
+      color:
+
+    - name: EKRE
+      number-of-mps: 11
+      color: "#0063AF"
+
+    - name:
+      number-of-mps:
+      color:
+
+    - name:
+      number-of-mps:
+      color:
+
+  date: 2025-03-10
+  source-url: https://en.wikipedia.org/wiki/Riigikogu
 
 - member-state: Finland
   lower-house: Parliament
