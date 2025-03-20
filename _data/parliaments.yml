@@ -266,6 +266,68 @@
 
 - member-state: Portugal
   lower-house: Assembly of the Republic
+  seats: 230
+  session: 2024-2025
+  groups:
+    - parties:
+        - name: BE
+          number-of-mps: 5
+          color: "#ad0e0b"
+
+        - name: PCP
+          number-of-mps: 4
+          color: "#ed141f"
+
+    - parties:
+        - name: PS
+          number-of-mps: 78
+          color: "#ff66ff"
+
+    - parties:
+        - name: LIVRE
+          number-of-mps: 4
+          color: "#00ce8d"
+
+        - name: PAN
+          number-of-mps: 1
+          color: "#006a71"
+
+    - parties:
+        - name: IL
+          number-of-mps: 8
+          color: "#01b0ef"
+
+    - parties:
+        - name: PPD/PSD
+          number-of-mps: 78
+          color: "#f68b1b"
+
+        - name: CDS-PP
+          number-of-mps: 2
+          color: "#0091dc"
+
+    - parties:
+        - name:
+          number-of-mps:
+          color:
+
+    - parties:
+        - name: CH
+          number-of-mps: 49
+          color: "#30309a"
+
+    - parties:
+        - name:
+          number-of-mps:
+          color:
+
+    - parties:
+        - name: Independent
+          number-of-mps: 1
+          color: "#dedede"
+
+  date: 2025-03-16
+  source-url: https://en.wikipedia.org/wiki/Assembly_of_the_Republic_(Portugal)
 
 - member-state: Romania
   lower-house: Chamber of Deputies
