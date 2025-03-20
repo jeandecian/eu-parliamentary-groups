@@ -4,30 +4,39 @@
   groups:
     - name: The Left
       number-of-mps: 46
+      color: "#B71C1C"
 
     - name: S&D
       number-of-mps: 136
+      color: "#F0001C"
 
     - name: Greens/EFA
       number-of-mps: 53
+      color: "#57B45F"
 
     - name: Renew
       number-of-mps: 77
+      color: "#FFD700"
 
     - name: EPP
       number-of-mps: 188
+      color: "#3399FF"
 
     - name: ECR
       number-of-mps: 78
+      color: "#196CA8"
 
     - name: PfE
       number-of-mps: 84
+      color: "#253082"
 
     - name: ESN
       number-of-mps: 25
+      color: "#13517E"
 
     - name: NI
       number-of-mps: 32
+      color: "#999999"
 
   date: 2024-07-16
 

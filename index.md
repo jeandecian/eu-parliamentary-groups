@@ -20,7 +20,18 @@ layout: default
       <td>{{ parliament.lower-house }}</td>
       <td>{{ parliament.session }}</td>
       {% for group in parliament.groups %}
-      <td>{{ group.name }} ({{ group.number-of-mps }})</td>
+      <td
+        {%
+        if
+        group.color
+        %}
+        style="background-color: {{ group.color }}; color: white;"
+        {%
+        endif
+        %}
+      >
+        {{ group.name }} ({{ group.number-of-mps }})
+      </td>
       {% endfor %}
       <td>{{ parliament.date }}</td>
     </tr>
