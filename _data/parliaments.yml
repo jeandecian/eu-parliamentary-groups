@@ -1,55 +1,83 @@
 - member-state: European Union
+  lower-house: European Parliament
 
 - member-state: Austria
+  lower-house: National Council
 
 - member-state: Belgium
+  lower-house: Chamber of Representatives
 
 - member-state: Bulgaria
+  lower-house: National Assembly
 
 - member-state: Croatia
+  lower-house: Croatian Parliament
 
 - member-state: Cyprus
+  lower-house: House of Representatives
 
 - member-state: Czech Republic
+  lower-house: Chamber of Deputies
 
 - member-state: Denmark
+  lower-house: Folketing
 
 - member-state: Estonia
+  lower-house: Riigikogu
 
 - member-state: Finland
+  lower-house: Parliament
 
 - member-state: France
+  lower-house: National Assembly
 
 - member-state: Germany
+  lower-house: Bundestag
 
 - member-state: Greece
+  lower-house: Hellenic Parliament
 
 - member-state: Hungary
+  lower-house: National Assembly
 
 - member-state: Ireland
+  lower-house: Dáil Éireann
 
 - member-state: Italy
+  lower-house: Chamber of Deputies
 
 - member-state: Latvia
+  lower-house: Saeima
 
 - member-state: Lithuania
+  lower-house: Seimas
 
 - member-state: Luxembourg
+  lower-house: Chamber of Deputies
 
 - member-state: Malta
+  lower-house: House of Representatives
 
 - member-state: Netherlands
+  lower-house: House of Representatives
 
 - member-state: Poland
+  lower-house: Sejm
 
 - member-state: Portugal
+  lower-house: Assembly of the Republic
 
 - member-state: Romania
+  lower-house: Chamber of Deputies
 
 - member-state: Slovakia
+  lower-house: National Council of the Slovak Republic
 
 - member-state: Slovenia
+  lower-house: National Assembly
 
 - member-state: Spain
+  lower-house: Congress of Deputies
 
 - member-state: Sweden
+  lower-house: Riksdag
