@@ -1,5 +1,35 @@
 - member-state: European Union
   lower-house: European Parliament
+  session: 2024-2029
+  groups:
+    - name: The Left
+      number-of-mps: 46
+
+    - name: S&D
+      number-of-mps: 136
+
+    - name: Greens/EFA
+      number-of-mps: 53
+
+    - name: Renew
+      number-of-mps: 77
+
+    - name: EPP
+      number-of-mps: 188
+
+    - name: ECR
+      number-of-mps: 78
+
+    - name: PfE
+      number-of-mps: 84
+
+    - name: ESN
+      number-of-mps: 25
+
+    - name: NI
+      number-of-mps: 32
+
+  date: 2024-07-16
 
 - member-state: Austria
   lower-house: National Council
