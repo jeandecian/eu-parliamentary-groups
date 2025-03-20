@@ -168,6 +168,47 @@
 
 - member-state: Italy
   lower-house: Chamber of Deputies
+  seats: 400
+  session: 2022-2027
+  groups:
+    - name: M5S
+      number-of-mps: 49
+      color: "#FFEB3B"
+
+    - name:
+      number-of-mps:
+      color:
+
+    - name:
+      number-of-mps:
+      color:
+
+    - name: IV–C–RE
+      number-of-mps: 7
+      color: "#D6418C"
+
+    - name: FI
+      number-of-mps: 49
+      color: "#0087DC"
+
+    - name: FdI
+      number-of-mps: 117
+      color: "#03386A"
+
+    - name: Lega
+      number-of-mps: 65
+      color: "#008000"
+
+    - name:
+      number-of-mps:
+      color:
+
+    - name:
+      number-of-mps:
+      color:
+
+  date: 2025-03-13
+  source-url: https://en.wikipedia.org/wiki/Chamber_of_Deputies_(Italy)
 
 - member-state: Latvia
   lower-house: Saeima
